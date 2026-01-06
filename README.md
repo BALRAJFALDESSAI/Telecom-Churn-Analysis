@@ -26,4 +26,6 @@ Strategic Recommendations
 3.	Regional Pricing: Conduct competitive benchmarking in the top 5 high-churn states.
 
 
+Link : https://public.tableau.com/app/profile/balraj.fal.dessai/viz/ChurnRateIndianTelecomMarket/ExecutiveKPIDashboard
+
 
